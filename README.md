@@ -152,7 +152,7 @@ fun_fact: "I believe consistency beats intensity — one commit at a time."
 <a href="mailto:hunainijaz200@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-b983ff?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/muhmmmad-hunain">
+<a href="https://www.linkedin.com/in/muhmmad-hunain/">
   <img src="https://img.shields.io/badge/LinkedIn-8a2be2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://hunain-portfolio1.netlify.app">
